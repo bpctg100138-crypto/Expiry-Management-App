@@ -1,0 +1,6 @@
+{
+  "name": "Retail Expiry Manager",
+  "description": "Offline-first PWA for retail expiry date tracking, barcode scanning, master Excel database matching, and inventory batch reporting.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
